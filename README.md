@@ -2,10 +2,6 @@
 
 Pruebas
 
-# loteria_dolorena
-
-Pruebas al proyecto
-
 ## RONDA 1 — Registrar una aportación válida
 
 <table>
